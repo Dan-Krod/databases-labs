@@ -1,5 +1,0 @@
-DB_HOST: "secret_host"
-DB_USER: "root"
-DB_PASSWORD: "secret_password"
-DB_NAME: "secret_db"
-

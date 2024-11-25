@@ -1,0 +1,5 @@
+DB_HOST: "localhost"
+DB_USER: "secret_user"
+DB_PASSWORD: "secret_password"
+DB_NAME: "secret_db"
+
